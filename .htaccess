@@ -1,0 +1,24 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+ErrorDocument 404 /404.html
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+Options -MultiViews
+RewriteRule ^careers/([a-zA-z_-]+)/([a-zA-z_-]+) careers.php?cat=$1&sub=$2 [QSA,L]
+RewriteRule ^careers/([a-zA-z_-]+) careers.php?query=$1 [QSA,L]
+RewriteRule ^careers/ careers.php [QSA,L]
+
+RewriteRule ^courses/([0-9a-zA-z_-]+)/([0-9a-zA-z_-]+) courses.php?cat=$1&sub=$2 [QSA,L]
+RewriteRule ^courses/([0-9a-zA-z_-]+) courses.php?query=$1 [QSA,L]
+RewriteRule ^courses/ courses.php [QSA,L]
+
+
+RewriteRule ^categories/([0-9a-zA-z_-]+) categories.php?query=$1 [QSA,L]
+RewriteRule ^categories/ categories.php [QSA,L]
