@@ -1,3 +1,14 @@
+<?php
+
+    function customErrorHandler ($errno, $errstr, $errfile, $errline) {
+        $message = "Error: [$errno] $errstr - $errfile:$errline";
+        error_log($message . PHP_EOL, 3, "error_log.txt");
+    }
+
+    set_error_handler("customErroHandler");
+
+?>
+
 <!doctype html>
 <html lang="en">
 
