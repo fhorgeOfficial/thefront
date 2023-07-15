@@ -172,7 +172,7 @@
         <script defer src="https://cdn01.alison-static.net/public/html/vendor/js/lazysizes.min.js?v=2.1" onload="extendFunctionality()"></script>
         <link rel="manifest" href="https://alison.com/manifest.json">
         <meta charset="utf-8">
-        <title>Find your perfect career | Alison Careers</title>
+        <title>Find your perfect career | Fhorge Careers</title>
         <meta name="keywords" content="Career Path, Occupation, Industry"/>
         <meta name="description" content="Search for your ideal career by Industry, Career Path or Occupation on the Alison Career Guide. Complete the courses to gain the skills you need to succeed."/>
         <meta property="og:title" content="Find your perfect career | Alison Careers"/>
@@ -305,7 +305,7 @@
                 </style>
                 <p>
                     <span class="icon-mobile-applications"></span>
-                    Alison's New App is now available on iOS and Android! <a target="_blank" rel="nofollow" href="https://alisonmobile.page.link/homepage" class="btn btn-green" title="">Download Now </a>
+                    Fhorge's New App is now available on iOS and Android! <a target="_blank" rel="nofollow" href="https://alisonmobile.page.link/homepage" class="btn btn-green" title="">Download Now </a>
                     <span class="icon-mobile-applications"></span>
                 </p>
             </div>
@@ -504,7 +504,7 @@
                             </div>
                             <div class="flms-copy">
                                 <p>Do you represent a business or organization that would like to train and upskill their employees?</p>
-                                <p>If yes, check out Alison’s Free Learning Management System here!</p>
+                                <p>If yes, check out Fhorge's Free Learning Management System here!</p>
                                 <div class="flms-but">
                                     <a href="https://alison.com/free-lms-programme" class="btn-flms btn-flms--green">Yes</a>
                                     <a href="#0" class="btn-flms btn-flms--blank">Not For Me</a>
@@ -523,7 +523,7 @@
                             <span class="icon-cross2 aff__close"></span>
                             <img class="lazyload" data-src="html/site/img/affiliates/not-affiliate.svg"/>
                             <div class="aff__text">
-                                <p>Become an Alison Affiliate in one click, and start earning money by sharing any page on the Alison website. </p>
+                                <p>Become an Fhorge Affiliate in one click, and start earning money by sharing any page on the Fhorge website. </p>
                                 <a class="aff__btn" href="https://alison.com/affiliates/learn-to-earn">Become an Affiliate</a>
                             </div>
                         </div>
@@ -629,7 +629,7 @@
                 <div class="row table-control desktop">
                     <div class="col-xs-12 text-center">
                         <span class="all-careers-heading">All Careers</span>
-                        <p class="all-careers-headline">Explore all careers in Alison's Career guide in an easy way!</p>
+                        <p class="all-careers-headline">Explore all careers in Fhorge's Career guide in an easy way!</p>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-4 col-md-offset-1">
                         <div class="form-group search-input">
@@ -668,7 +668,7 @@
                 <div class="row table-control mobile">
                     <div class="col-xs-12 text-center">
                         <span class="all-careers-heading">All Careers</span>
-                        <p class="all-careers-headline">Explore all careers in Alison's Career guide in an easy way!</p>
+                        <p class="all-careers-headline">Explore all careers in Fhorge's Career guide in an easy way!</p>
                     </div>
                     <div class="col-xs-12">
                         <div class="row">
@@ -787,25 +787,25 @@
                 <div class="col-inner">
                     <div class="ft-column">
                         <div class="ft-column-inner">
-                            <div class="footer_h3">LEARN ABOUT ALISON</div>
+                            <div class="footer_h3">LEARN ABOUT FHORGE</div>
                             <ul>
                                 <li>
-                                    <a href="https://alison.com/about/how-it-works">How Alison Works</a>
+                                    <a href="https://alison.com/about/how-it-works">How Fhorge Works</a>
                                 </li>
                                 <li>
-                                    <a href="https://alison.com/about/about-alison-courses">About Alison Courses</a>
+                                    <a href="https://alison.com/about/about-alison-courses">About Fhorge Courses</a>
                                 </li>
                                 <li>
                                     <a href="https://alison.com/about/our-story">Our Story</a>
                                 </li>
                                 <li>
-                                    <a href="https://alison.com/programmes">Alison Programmes</a>
+                                    <a href="https://alison.com/programmes">Fhorge Programmes</a>
                                 </li>
                                 <li>
                                     <a href="https://alison.com/course-creators">Our Course Creators</a>
                                 </li>
                                 <li>
-                                    <a href="https://alison.com/empower-us">Empower Alison</a>
+                                    <a href="https://alison.com/empower-us">Empower Fhorge</a>
                                 </li>
                                 <li>
                                     <a href="https://alison.com/about/pricing">Pricing</a>
@@ -869,7 +869,7 @@
                                     <a href="https://alison.com/careers">Discover Careers</a>
                                 </li>
                                 <li>
-                                    <a href="https://alison.com/profile">Alison Profile</a>
+                                    <a href="https://alison.com/profile">Fhorge Profile</a>
                                 </li>
                                 <li>
                                     <a href="https://alison.com/resume-builder">Build Your Resumé</a>
@@ -881,7 +881,7 @@
                                     <a href="https://alison.com/psychometric-test/wellbeing">Free Well-being Check up</a>
                                 </li>
                                 <li>
-                                    <a href="https://alison.com/free-lms-programme">Alison for Business</a>
+                                    <a href="https://alison.com/free-lms-programme">Fhorge for Business</a>
                                 </li>
                                 <li>
                                     <a href="https://alison.com/e-learning-africa">eLearning Africa</a>
@@ -901,10 +901,10 @@
                 <div class="col-inner">
                     <div class="ft-column">
                         <div class="ft-column-inner">
-                            <div class="footer_h3">EARN ON ALISON</div>
+                            <div class="footer_h3">EARN ON FHORGE</div>
                             <ul>
                                 <li>
-                                    <a href="https://alison.com/publish">Create Courses on Alison</a>
+                                    <a href="https://alison.com/publish">Create Courses on Fhorge</a>
                                 </li>
                                 <li>
                                     <a href="https://alison.com/affiliates/learn-to-earn">Affiliate Programme</a>
@@ -997,7 +997,7 @@
                 <div class="row-5 policies">
                     <ul class="policies-list">
                         <li class="icon-rights">
-                            <span>&copy;Alison 2023</span>
+                            <span>&copy;Fhorge 2023</span>
                         </li>
                         <li class="icon-rights">
                             <a href="https://alison.com/about/terms-of-use?privacy-policy" title="Alison Privacy Policy">Privacy</a>
