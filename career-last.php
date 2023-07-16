@@ -172,7 +172,7 @@
         <script defer src="https://cdn01.alison-static.net/public/html/vendor/js/lazysizes.min.js?v=2.1" onload="extendFunctionality()"></script>
         <link rel="manifest" href="https://alison.com/manifest.json">
         <meta charset="utf-8">
-        <title>Free Online Courses to Become an App Developer - Alison</title>
+        <title>Free Online Courses to Become an App Developer - Fhorge</title>
         <meta name="keywords" content=""/>
         <meta name="description" content="Detailed career path guide: how much Mobile App Developers make, what skills they need, how they start. Learn from the basics and get the job."/>
         <meta property="og:title" content="Free Online Courses to Become an App Developer - Alison"/>
